@@ -1,0 +1,319 @@
+2019-03-20 15:50:42,179 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-20 16:01:01,519 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.pinyougou:pinyougou-parent:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pom.xml.
+2019-03-20 16:01:04,767 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-pojo:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-pojo\pom.xml.
+2019-03-20 16:01:04,812 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-dao:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-dao\pom.xml.
+2019-03-20 16:01:05,163 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-common:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-common\pom.xml.
+2019-03-20 16:01:05,244 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-sellergoods-interface:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-sellergoods-interface\pom.xml.
+2019-03-20 16:01:05,295 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-sellergoods-service:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-sellergoods-service\pom.xml.
+2019-03-20 16:01:06,538 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-manager-web:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-manager-web\pom.xml.
+2019-03-20 16:01:07,237 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-shop-web:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-shop-web\pom.xml.
+2019-03-20 16:01:13,395 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-pojo/src/main/java
+2019-03-20 16:01:13,396 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-pojo/src/main/resources
+2019-03-20 16:01:13,397 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-pojo/src/test/java
+2019-03-20 16:01:13,397 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-pojo/src/test/resources
+2019-03-20 16:01:14,028 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-sellergoods-interface/src/main/java
+2019-03-20 16:01:14,028 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-sellergoods-interface/src/main/resources
+2019-03-20 16:01:14,029 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-sellergoods-interface/src/test/java
+2019-03-20 16:01:14,029 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-sellergoods-interface/src/test/resources
+2019-03-20 16:01:14,224 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-manager-web/src/main/java
+2019-03-20 16:01:14,225 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-manager-web/src/main/resources
+2019-03-20 16:01:14,225 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-manager-web/src/test/java
+2019-03-20 16:01:14,226 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-manager-web/src/test/resources
+2019-03-20 16:01:16,972 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-dao/src/main/java
+2019-03-20 16:01:16,973 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-dao/src/main/resources
+2019-03-20 16:01:16,973 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-dao/src/test/java
+2019-03-20 16:01:16,974 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-dao/src/test/resources
+2019-03-20 16:01:17,188 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-sellergoods-service/src/main/java
+2019-03-20 16:01:17,189 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-sellergoods-service/src/main/resources
+2019-03-20 16:01:17,189 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-sellergoods-service/src/test/java
+2019-03-20 16:01:17,190 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-sellergoods-service/src/test/resources
+2019-03-20 16:01:18,115 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-common/src/main/java
+2019-03-20 16:01:18,115 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-common/src/main/resources
+2019-03-20 16:01:18,116 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-common/src/test/java
+2019-03-20 16:01:18,116 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-common/src/test/resources
+2019-03-20 16:01:18,181 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-shop-web/src/main/java
+2019-03-20 16:01:18,182 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-shop-web/src/main/resources
+2019-03-20 16:01:18,183 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-shop-web/src/test/java
+2019-03-20 16:01:18,183 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-shop-web/src/test/resources
+2019-03-20 16:01:19,119 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 8 project(s) in 20 sec
+2019-03-20 16:01:20,566 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:20,569 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:20,571 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:20,573 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:22,656 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:22,658 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:22,659 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:22,662 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:23,154 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:23,156 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2019-03-20 16:01:23,351 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:23,353 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:23,647 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:23,650 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:23,651 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:23,653 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:24,037 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:24,039 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 16:01:24,057 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:24,059 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:24,357 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:24,359 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:01:24,370 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:24,372 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:01:24,571 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:24,573 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 16:01:24,598 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:01:24,599 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:03:25,023 [Worker-21] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated local repository index
+2019-03-20 16:05:41,179 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-03-20 16:05:55,221 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-sellergoods-service
+2019-03-20 16:05:55,224 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\maven\apache-maven-3.3.9\conf\settings.xml -s D:\maven\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2019-03-20 16:11:26,929 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-sellergoods-service:0.0.5-SNAPSHOT @ E:\品优购系统开发讲义+代码+资料\品优购系统开发代码1-20天\day-03\pinyougou-parent\pinyougou-sellergoods-service\pom.xml.
+2019-03-20 16:11:27,846 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.pinyougou:pinyougou-sellergoods-interface:jar:0.0.5-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 16:11:28,693 [Worker-29] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - null
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.wtp.ProjectUtils.getRelativePath(ProjectUtils.java:56) ~[na:na]
+	at org.eclipse.m2e.wtp.ProjectUtils.getBuildFolder(ProjectUtils.java:82) ~[na:na]
+	at org.eclipse.m2e.wtp.ProjectUtils.getM2eclipseWtpFolder(ProjectUtils.java:73) ~[na:na]
+	at org.eclipse.m2e.wtp.internal.mavenarchiver.WarMavenArchiverConfigurator.getOutputDir(WarMavenArchiverConfigurator.java:42) ~[na:na]
+	at org.sonatype.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:205) ~[na:na]
+	at org.eclipse.m2e.wtp.mavenarchiver.AbstractWTPArchiverConfigurator.mavenProjectChanged(AbstractWTPArchiverConfigurator.java:54) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:1036) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.1.v20170714-0547.jar:na]
+2019-03-20 16:12:01,237 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.pinyougou:pinyougou-parent:0.0.5-SNAPSHOT @ C:\Users\10593\Documents\品优购\pinyougou-parent\pom.xml.
+2019-03-20 16:12:02,386 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-pojo:0.0.5-SNAPSHOT @ C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-pojo\pom.xml.
+2019-03-20 16:12:02,425 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-dao:0.0.5-SNAPSHOT @ C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-dao\pom.xml.
+2019-03-20 16:12:02,484 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-common:0.0.5-SNAPSHOT @ C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-common\pom.xml.
+2019-03-20 16:12:02,529 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-sellergoods-interface:0.0.5-SNAPSHOT @ C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-sellergoods-interface\pom.xml.
+2019-03-20 16:12:02,559 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-sellergoods-service:0.0.5-SNAPSHOT @ C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-sellergoods-service\pom.xml.
+2019-03-20 16:12:02,688 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-manager-web:0.0.5-SNAPSHOT @ C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-manager-web\pom.xml.
+2019-03-20 16:12:02,729 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.pinyougou:pinyougou-shop-web:0.0.5-SNAPSHOT @ C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-shop-web\pom.xml.
+2019-03-20 16:12:06,154 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-pojo/src/main/java
+2019-03-20 16:12:06,155 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-pojo/src/main/resources
+2019-03-20 16:12:06,155 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-pojo/src/test/java
+2019-03-20 16:12:06,156 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-pojo/src/test/resources
+2019-03-20 16:12:06,260 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-sellergoods-interface/src/main/java
+2019-03-20 16:12:06,260 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-sellergoods-interface/src/main/resources
+2019-03-20 16:12:06,260 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-sellergoods-interface/src/test/java
+2019-03-20 16:12:06,261 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-sellergoods-interface/src/test/resources
+2019-03-20 16:12:06,352 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-manager-web/src/main/java
+2019-03-20 16:12:06,352 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-manager-web/src/main/resources
+2019-03-20 16:12:06,352 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-manager-web/src/test/java
+2019-03-20 16:12:06,352 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-manager-web/src/test/resources
+2019-03-20 16:12:07,004 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-dao/src/main/java
+2019-03-20 16:12:07,004 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-dao/src/main/resources
+2019-03-20 16:12:07,005 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-dao/src/test/java
+2019-03-20 16:12:07,006 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-dao/src/test/resources
+2019-03-20 16:12:07,160 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-sellergoods-service/src/main/java
+2019-03-20 16:12:07,160 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-sellergoods-service/src/main/resources
+2019-03-20 16:12:07,161 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-sellergoods-service/src/test/java
+2019-03-20 16:12:07,161 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-sellergoods-service/src/test/resources
+2019-03-20 16:12:08,281 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-common/src/main/java
+2019-03-20 16:12:08,283 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-common/src/main/resources
+2019-03-20 16:12:08,283 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-common/src/test/java
+2019-03-20 16:12:08,284 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-common/src/test/resources
+2019-03-20 16:12:08,381 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-shop-web/src/main/java
+2019-03-20 16:12:08,382 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-shop-web/src/main/resources
+2019-03-20 16:12:08,382 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pinyougou-shop-web/src/test/java
+2019-03-20 16:12:08,383 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pinyougou-shop-web/src/test/resources
+2019-03-20 16:12:08,830 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 8 project(s) in 8 sec
+2019-03-20 16:12:09,477 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:09,479 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:09,482 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:09,484 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:10,847 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:10,849 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:10,850 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:10,852 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:11,387 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:11,389 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2019-03-20 16:12:11,808 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:11,810 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:11,991 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:11,993 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:11,994 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:11,996 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:12,276 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:12,277 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 16:12:12,299 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:12,300 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:12,549 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:12,552 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:12:12,563 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:12,565 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:12:12,706 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:12,709 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 16:12:12,718 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:12:12,720 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:13:54,010 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:13:54,016 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:13:54,023 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:13:54,025 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:15:23,742 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:15:23,748 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:15:23,753 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:15:23,755 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:15:46,526 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:15:46,528 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:15:46,535 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:15:46,549 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:16:06,951 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-20 16:16:07,103 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-sellergoods-service
+2019-03-20 16:16:07,105 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\maven\apache-maven-3.3.9\conf\settings.xml -s D:\maven\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2019-03-20 16:19:12,552 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:12,555 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:12,557 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:12,559 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:13,626 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:13,628 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:13,630 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:13,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:13,935 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:13,948 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2019-03-20 16:19:14,027 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,029 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:14,332 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,334 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:14,335 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,337 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:14,550 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,554 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 16:19:14,565 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,567 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:14,811 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,814 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:19:14,820 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,822 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:14,933 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,938 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 16:19:14,949 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:14,951 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:23,596 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:23,598 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:23,599 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:19:23,600 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:19:35,883 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-20 16:19:36,008 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-sellergoods-service
+2019-03-20 16:19:36,009 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\maven\apache-maven-3.3.9\conf\settings.xml -s D:\maven\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2019-03-20 16:21:01,841 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-20 16:21:01,888 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-sellergoods-service
+2019-03-20 16:21:01,889 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\maven\apache-maven-3.3.9\conf\settings.xml -s D:\maven\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2019-03-20 16:21:31,449 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-03-20 16:21:47,743 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\10593\Documents\品优购\pinyougou-parent\pinyougou-manager-web
+2019-03-20 16:21:47,744 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs D:\maven\apache-maven-3.3.9\conf\settings.xml -s D:\maven\apache-maven-3.3.9\conf\settings.xml tomcat7:run
+2019-03-20 16:26:45,755 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.dubboxdemo:dubboxdemo-service:0.0.1-SNAPSHOT @ C:\Users\10593\Documents\品优购\dubboxdemo-service\pom.xml.
+2019-03-20 16:26:46,952 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubboxdemo-service/src/main/java
+2019-03-20 16:26:46,953 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubboxdemo-service/src/main/resources
+2019-03-20 16:26:46,954 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubboxdemo-service/src/test/java
+2019-03-20 16:26:46,955 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubboxdemo-service/src/test/resources
+2019-03-20 16:26:47,355 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-03-20 16:26:47,841 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:26:47,842 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:26:47,847 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:26:47,849 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:27:16,397 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.itcast.dubboxdemo:dubboxdemo-web:0.0.1-SNAPSHOT @ C:\Users\10593\Documents\品优购\dubboxdemo-web\pom.xml.
+2019-03-20 16:27:16,838 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubboxdemo-web/src/main/java
+2019-03-20 16:27:16,838 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubboxdemo-web/src/main/resources
+2019-03-20 16:27:16,839 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubboxdemo-web/src/test/java
+2019-03-20 16:27:16,839 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubboxdemo-web/src/test/resources
+2019-03-20 16:27:17,249 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-03-20 16:27:17,687 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:27:17,689 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:27:17,694 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:27:17,696 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:32,777 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:32,779 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:32,780 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:32,782 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:32,797 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:32,799 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:32,800 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:32,802 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:32,927 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:32,929 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:32,931 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:32,933 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:32,950 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:32,952 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:32,953 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:32,955 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,074 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,076 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,077 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,079 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,098 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,100 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,100 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,102 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,348 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,350 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,351 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,353 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,476 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,478 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,479 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,481 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,554 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,555 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:31:33,557 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:31:33,559 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:48,292 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:48,295 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:32:48,297 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:48,299 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:48,300 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubboxdemo-service
+2019-03-20 16:32:48,301 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubboxdemo-service
+2019-03-20 16:32:48,313 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,116 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,119 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:32:49,122 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,125 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,125 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubboxdemo-web
+2019-03-20 16:32:49,125 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubboxdemo-web
+2019-03-20 16:32:49,132 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,173 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,175 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,176 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,180 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,462 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,465 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,466 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,468 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,542 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,554 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2019-03-20 16:32:49,561 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,564 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,631 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,634 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,635 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,638 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,807 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,813 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 16:32:49,815 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:49,818 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:49,818 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of pinyougou-manager-web
+2019-03-20 16:32:49,818 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for pinyougou-manager-web
+2019-03-20 16:32:49,822 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:50,427 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:50,430 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 16:32:50,437 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:50,440 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:50,440 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of pinyougou-sellergoods-service
+2019-03-20 16:32:50,440 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for pinyougou-sellergoods-service
+2019-03-20 16:32:50,445 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:50,700 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:50,705 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 16:32:50,707 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 16:32:50,709 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 16:32:50,709 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of pinyougou-shop-web
+2019-03-20 16:32:50,709 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for pinyougou-shop-web
+2019-03-20 16:32:50,713 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!

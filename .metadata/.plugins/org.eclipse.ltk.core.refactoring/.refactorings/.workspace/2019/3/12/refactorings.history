@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 8 resources" deleteContents="true" description="Delete 8 resources" element1="/pinyougou-common" element2="/pinyougou-dao" element3="/pinyougou-manager-web" element4="/pinyougou-parent" element5="/pinyougou-pojo" element6="/pinyougou-sellergoods-interface" element7="/pinyougou-sellergoods-service" element8="/pinyougou-shop-web" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1553069488179"/>
+</session>
