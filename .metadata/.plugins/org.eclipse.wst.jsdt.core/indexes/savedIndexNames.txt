@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+C:\Users\10593\Documents\∆∑”≈π∫\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-769800241.index
-806851485.index
-2628172764.index
-765060057.index
-1976670294.index
