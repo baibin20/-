@@ -32,32 +32,40 @@ app.controller('sellerController' ,function($scope,$controller   ,sellerService)
 	}
 	
 	//保存 
-	$scope.add=function(){						
+	$scope.save=function(){				
+		var serviceObject;//服务层对象  				
+		if($scope.entity.id!=null){//如果有ID
+			serviceObject=sellerService.update( $scope.entity ); //修改  
+		}else{
+			serviceObject=sellerService.add( $scope.entity  );//增加 
+		}				
+		serviceObject.success(
+			function(response){
+				if(response.success){
+					//重新查询 
+		        	$scope.reloadList();//重新加载
+				}else{
+					alert(response.message);
+				}
+			}		
+		);				
+	}
+	
+	
+	//新增 
+	$scope.add=function(){
 		sellerService.add( $scope.entity  ).success(
 			function(response){
 				if(response.success){
-					location.href='shoplogin.html';
-				}else{
-					alert(response.message);
-				}
-			}		
-		);				
-	}
-	
-	//新增
-	$scope.add=function(){				
-		sellerService.add($scope.entity ).success(
-			function(response){
-				if(response.success){
 					//如果注册成功，跳转到登录页
-					location.href="shoplogin.html";
+		        	location.href="shoplogin.html";
 				}else{
 					alert(response.message);
 				}
 			}		
 		);				
 	}
-	
+	 
 	//批量删除 
 	$scope.dele=function(){			
 		//获取选中的复选框			

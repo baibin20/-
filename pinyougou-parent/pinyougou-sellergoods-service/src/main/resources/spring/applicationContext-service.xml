@@ -13,6 +13,7 @@
 	<dubbo:application name="pinyougou-sellergoods-service"/>  
     <dubbo:registry address="zookeeper://192.168.206.133:2181"/>
     <dubbo:annotation package="com.pinyougou.sellergoods.service.impl" />  
+    <!-- <dubbo:provider delay="-1" timeout="60000" retries="0"></dubbo:provider> -->
    
    
 </beans>
