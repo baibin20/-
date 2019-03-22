@@ -78,36 +78,38 @@
 		<scope>provided</scope>
 	</dependency>
 
+	<dependency>
+		<groupId>org.springframework.security</groupId>
+		<artifactId>spring-security-web</artifactId>
+	</dependency>
+
+	<dependency>
+		<groupId>org.springframework.security</groupId>
+		<artifactId>spring-security-config</artifactId>
+	</dependency>
 
 	<dependency>
 		<groupId>com.pinyougou</groupId>
 		<artifactId>pinyougou-sellergoods-interface</artifactId>
 		<version>0.0.5-SNAPSHOT</version>
 	</dependency>
-	
-	<!-- 身份验证 -->
-	<dependency>
-		<groupId>org.springframework.security</groupId>
-		<artifactId>spring-security-web</artifactId>		
-	</dependency>
-	<dependency>
-		<groupId>org.springframework.security</groupId>
-		<artifactId>spring-security-config</artifactId>		
-	</dependency>
    </dependencies>
-   
-   
-  
   
     <build>  
 	  <plugins>
 	      <plugin>
+	      
+	      <!-- https://mvnrepository.com/artifact/org.apache.tomcat.maven/tomcat8-maven-plugin -->
+
+	      
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
-				<version>2.2</version>
+				 <version>2.2</version>
+				 
 				<configuration>
 					<!-- 指定端口 -->
 					<port>9101</port>
+					<uriEncoding>UTF-8</uriEncoding>
 					<!-- 请求路径 -->
 					<path>/</path>
 				</configuration>
