@@ -12,7 +12,7 @@ import org.csource.fastdfs.TrackerServer;
 public class Test {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException, Exception {
-		// 1.加载配置文件
+		// 1.加载配置 文件
 		ClientGlobal.init("C:\\Users\\10593\\Documents\\品优购\\fastDFSdemo\\src\\main\\resources\\fdfs_client.conf");
 		// 2.构建一个管理者客户端
 		TrackerClient client=new TrackerClient();
