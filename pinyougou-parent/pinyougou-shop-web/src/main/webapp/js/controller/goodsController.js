@@ -61,6 +61,7 @@ app.controller('goodsController' ,function($scope,$controller   ,goodsService,up
 					alert("新增成功");
 					$scope.entity={};
 					editor.html("");//清空富文本编辑器
+					document.location.reload();
 				}else{
 					alert(response.message);
 				}
