@@ -1,6 +1,8 @@
 package com.pinyougou.sellergoods.service.impl;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
 import com.alibaba.dubbo.config.annotation.Service;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
@@ -18,6 +20,7 @@ import entity.PageResult;
  *
  */
 @Service
+@Transactional
 public class ItemCatServiceImpl implements ItemCatService {
 
 	@Autowired
@@ -97,12 +100,12 @@ public class ItemCatServiceImpl implements ItemCatService {
 		return new PageResult(page.getTotal(), page.getResult());
 	}
 
-		@Override
-		public List<TbItemCat> findByParentId(long parentId) {
-			TbItemCatExample example1=new TbItemCatExample();
-			Criteria criteria1 = example1.createCriteria();
-			criteria1.andParentIdEqualTo(parentId);
-			return  itemCatMapper.selectByExample(example1);	
-		}
+	@Override
+	public List<TbItemCat> findByParentId(Long parentId) {
+		TbItemCatExample example=new TbItemCatExample();
+		Criteria criteria = example.createCriteria();
+		criteria.andParentIdEqualTo(parentId);
+		return itemCatMapper.selectByExample(example);
+	}
 	
 }

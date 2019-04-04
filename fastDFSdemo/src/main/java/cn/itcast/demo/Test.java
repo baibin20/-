@@ -23,7 +23,7 @@ public class Test {
 		//5. 获取存储服务器的客户端对象
 		StorageClient storageClient=new StorageClient(trackerServer, storageServer);
 		//6.上传文件
-		String[] strings = storageClient.upload_file("C:\\Users\\10593\\Desktop\\aa.jpg", "jpg", null);
+		String[] strings = storageClient.upload_file("C:\\Users\\10593\\Desktop\\bb.jpg", "jpg", null);
 		//7.显示上传结果 file_id
 		for(String str:strings){
 			System.out.println(str);

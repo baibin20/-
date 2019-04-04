@@ -1,8 +1,8 @@
 package com.pinyougou.sellergoods.service.impl;
 import java.util.Date;
 import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.alibaba.dubbo.config.annotation.Service;
 import com.github.pagehelper.Page;
@@ -21,6 +21,7 @@ import entity.PageResult;
  *
  */
 @Service
+@Transactional
 public class SellerServiceImpl implements SellerService {
 
 	@Autowired
@@ -92,7 +93,7 @@ public class SellerServiceImpl implements SellerService {
 		Criteria criteria = example.createCriteria();
 		
 		if(seller!=null){			
-			if(seller.getSellerId()!=null && seller.getSellerId().length()>0){
+						if(seller.getSellerId()!=null && seller.getSellerId().length()>0){
 				criteria.andSellerIdLike("%"+seller.getSellerId()+"%");
 			}
 			if(seller.getName()!=null && seller.getName().length()>0){
