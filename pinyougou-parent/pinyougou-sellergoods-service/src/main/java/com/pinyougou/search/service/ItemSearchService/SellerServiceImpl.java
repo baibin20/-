@@ -1,4 +1,4 @@
-package com.pinyougou.sellergoods.service.impl;
+package com.pinyougou.search.service.ItemSearchService;
 import java.util.Date;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
