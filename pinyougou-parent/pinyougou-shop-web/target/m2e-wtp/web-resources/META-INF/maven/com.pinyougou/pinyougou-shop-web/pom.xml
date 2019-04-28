@@ -3,11 +3,10 @@
   <parent>
     <groupId>com.pinyougou</groupId>
     <artifactId>pinyougou-parent</artifactId>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
   </parent>
   <artifactId>pinyougou-shop-web</artifactId>
   <packaging>war</packaging>
-  
   
    <dependencies>
     <!-- Spring -->
@@ -78,6 +77,14 @@
 		<scope>provided</scope>
 	</dependency>
 
+
+	<dependency>
+		<groupId>com.pinyougou</groupId>
+		<artifactId>pinyougou-sellergoods-interface</artifactId>
+		<version>0.0.3-SNAPSHOT</version>
+	</dependency>
+	
+	<!-- 身份认证的依赖 -->
 	<dependency>
 		<groupId>org.springframework.security</groupId>
 		<artifactId>spring-security-web</artifactId>
@@ -87,17 +94,10 @@
 		<groupId>org.springframework.security</groupId>
 		<artifactId>spring-security-config</artifactId>
 	</dependency>
-
-
-	<dependency>
-		<groupId>com.pinyougou</groupId>
-		<artifactId>pinyougou-sellergoods-interface</artifactId>
-		<version>0.0.5-SNAPSHOT</version>
-	</dependency>
 	<dependency>
 		<groupId>com.pinyougou</groupId>
 		<artifactId>pinyougou-common</artifactId>
-		<version>0.0.5-SNAPSHOT</version>
+		<version>0.0.3-SNAPSHOT</version>
 	</dependency>
    </dependencies>
   
@@ -117,6 +117,4 @@
 	  	  </plugin>
 	  </plugins>  
     </build>
-  
-  
 </project>
